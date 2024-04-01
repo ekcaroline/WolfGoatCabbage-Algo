@@ -1,5 +1,3 @@
-#Group Members: Caroline Ek, Serafina Yu, Zeid Zawaideh 
-
 from search import *
 
 class WolfGoatCabbage(Problem):
